@@ -36,9 +36,9 @@ Run Neo on the scenario that motivated the change and record the result in
 `brain/log/decisions.md`. A harness's README status stays "untested" until it
 has been run.
 
-## Kept fit to publish
+## Public repo
 
-Private today, may be published. Nothing personal outside `brain/rafael.md`: no home paths, machine names, other project names, keys.
+Nothing personal: no home paths, machine names, other project names, keys.
 The library `$NEO_HOME` is the owner's and no script ever removes or
 overwrites it.
 

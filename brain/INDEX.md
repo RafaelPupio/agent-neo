@@ -11,6 +11,6 @@ Hub. Read this, then open only the note the task needs.
 | [plan.md](plan.md) | You need the build plan and task order. |
 
 How the owner works is in [rafael.md](rafael.md), a copy of the portfolio's shared
-note. It is personal: remove it before this repository is ever made public.
+note: writing conventions only, nothing personal.
 
-Private repo, kept fit to publish: nothing personal outside `rafael.md`.
+Public repo. Nothing personal in any of these files.
