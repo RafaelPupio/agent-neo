@@ -36,13 +36,13 @@ Run Neo on the scenario that motivated the change and record the result in
 `brain/log/decisions.md`. A harness's README status stays "untested" until it
 has been run.
 
-## Public repo
+## Kept fit to publish
 
-Nothing personal: no home paths, machine names, other project names, keys.
+Private today, may be published. Nothing personal outside `brain/rafael.md`: no home paths, machine names, other project names, keys.
 The library `$NEO_HOME` is the owner's and no script ever removes or
 overwrites it.
 
 ## Finishing
 
-`brain/status.md` and `brain/log/decisions.md` **in this folder**. The root
-brain tracks the portfolio, not this agent.
+`brain/status.md` and `brain/log/decisions.md`. The `Agents` index repo
+lists this agent; its own records live only here.

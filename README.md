@@ -46,8 +46,8 @@ own `CLAUDE.md` / `AGENTS.md`, then Neo.
 ## Install
 
 ```bash
-git clone https://github.com/RafaelPupio/Agents
-./Agents/neo/install.sh claude-code ~
+git clone https://github.com/RafaelPupio/agent-neo
+./agent-neo/install.sh claude-code ~
 ```
 
 `~` installs for every project on the machine. Pass a project path instead to

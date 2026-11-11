@@ -10,7 +10,7 @@ Hub. Read this, then open only the note the task needs.
 | [design.md](design.md) | You need the spec: intent, memory approaches, tiers, levers, test scenarios. |
 | [plan.md](plan.md) | You need the build plan and task order. |
 
-Conventions about how the owner works are shared across the portfolio and live
-in the root brain's `rafael.md`, not duplicated here.
+How the owner works is in [rafael.md](rafael.md), a copy of the portfolio's shared
+note. It is personal: remove it before this repository is ever made public.
 
-Public repo. Nothing personal in any of these files.
+Private repo, kept fit to publish: nothing personal outside `rafael.md`.
